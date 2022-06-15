@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    border: 0;
+    background-color: black;
+    font-family: Raleway;
+    color: #FFFFFF;
+}
+p{
+    color: #FFFFFF;
+}
+
+h2{
+    color: #FFFFFF;
+}
+/*Header*/
+
+.header{
+    font-size: 50px;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.backgroundimg img{
+    width: 100%;
+}
+
+/*Descripción*/
+
+.descripcion{
+    padding: 3em 0;
+}
+
+.descripcionyfoto{
+    width: 80%;
+}
+
+.descripcioniguana{
+    width: 60%;
+    display: inline-block;
+    text-align: left;
+    padding-right: 2em;  
+    vertical-align: middle;  
+}
+
+.descripcionfoto{
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+
+/*Iconos*/
+
+.iconos{
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 3em;
+}
+
+.iconos h2{
+    font-weight: 500;
+    font-size: 3em;
+    margin-bottom: 1em;
+}
+
+.icono{
+    display: inline-block;
+    width: 30%;
+}
+
+.icono p{
+    font-size: 2em;
+    font-weight: 300;
+}
+
+/*Imagenes*/
+
+.imagenes{
+    text-align: center;
+    padding: 5em;
+}
+
+.img{
+    display: inline-block;
+    width: 30%;
+    
+    
+}
+
+.img img{
+    width: 316px;
+    height: 202px;
+}
+
+/*Footer*/
+
+footer{
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 1em;
+}
